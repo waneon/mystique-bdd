@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "mystique-bdd"
+version = "0.1.0"
+description = ""
+authors = ["Wonung Kim <wukim@casys.kaist.ac.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8"
+toml = "^0.10.2"
+pillow = "^10.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

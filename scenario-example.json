@@ -1,0 +1,9 @@
+{
+  "scenario-name": "something",
+  "crop-path": "/mnt/hdd/data/dataset/continual-learning-dataset/bdd100k/crop-fps30-sec60",
+  "output-root-path": "/mnt/hdd/data/dataset/continual-learning-dataset/bdd100k",
+  "windows": [
+    "undefined-residential-daytime-traffic_only-window_000",
+    "clear-highway-night-traffic_only-window_023"
+  ]
+}

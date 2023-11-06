@@ -1,0 +1,5 @@
+fps = 30
+sec = 60
+
+original-path = "/mnt/hdd/data/dataset/continual-learning-dataset/bdd100k/bdd100k"
+crop-root-path = "/mnt/hdd/data/dataset/continual-learning-dataset/bdd100k"
